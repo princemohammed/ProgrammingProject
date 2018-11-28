@@ -10,20 +10,7 @@
             height: 544px;
             background-color: #EAE8DC;
             text-align: center;
-        }
-        .auto-style2 {
-            color: #FF0000;
-        }
-        .auto-style3 {
-            color: #000000;
-            text-align: center;
-            font-family: "Britannic Bold";
-        }
-        .auto-style4 {
-            height: 549px;
-        }
-        .auto-style5 {
-            text-align: center;
+     
             width: 719px;
         }
         .auto-style6 {
